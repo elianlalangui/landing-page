@@ -1,11 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
-
-body{
-  box-sizing: border-box;
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-}
-
 .container {
   width: 90%;
   max-width: 1200px;
@@ -100,8 +92,8 @@ body{
   justify-self: center;
   color: #fff;
   text-decoration: none;
-  padding: 13px 30px;
-  border-radius: 32px;
+  padding: 13px 20px;
+  border-radius: 30px;
 }
 
 /*# sourceMappingURL=estilos.css.map */
